@@ -1,0 +1,9 @@
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\bin\Debug\VB.exe
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\bin\Debug\VB.pdb
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\bin\Debug\VB.xml
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\VB.vbproj.GenerateResource.Cache
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\VB.exe
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\VB.xml
+C:\Users\Georges\Documents\Visual Studio 2010\Projects\VB\VB\obj\x86\Debug\VB.pdb
